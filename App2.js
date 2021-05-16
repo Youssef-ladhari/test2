@@ -1,11 +1,9 @@
 import React, {Component} from 'react';
 import axios from 'axios';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
-  ScrollView,
   Animated,
   Image,
   Dimensions,

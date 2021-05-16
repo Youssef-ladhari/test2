@@ -18,7 +18,7 @@
     "react-native-camera": "^3.43.6",
     "react-native-maps": "^0.27.1",
     "react-native-permissions": "^2.2.2",
-    "react-native-qrcode-scanner": "^1.5.4",
+    "react-native-qrcode-scanner": "^1.5.4", 
     "react-navigation": "^4.4.4",
     "react-navigation-drawer": "^2.7.0"
   },
